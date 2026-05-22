@@ -1,0 +1,6 @@
+{
+  "name": "حاجز - Hajez Booking",
+  "description": "تطبيق متكامل لإنشاء الحسابات وحجز الخدمات وإدارتها لأصحاب ومستخدمي الخدمات الفندقية، العيادات، والشقق السكنية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
